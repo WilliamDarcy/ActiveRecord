@@ -308,7 +308,7 @@ namespace Adherent1_ActiveRecord
         /// <param name="id"></param>
         public static void Delete(int id)
         {
-
+            //TODO
         }
            
     }
