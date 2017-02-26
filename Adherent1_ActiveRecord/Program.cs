@@ -14,7 +14,7 @@ namespace Adherent1_ActiveRecord
         [STAThread]
         static void Main()
         {
-            //new version
+            //new version 2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
